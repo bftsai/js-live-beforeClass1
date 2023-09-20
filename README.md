@@ -61,7 +61,7 @@ cd localFolder/js-live-beforeClass1
 ![Static Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&labelColor=2c2a2a)  
 
 
-## ![Alt text](hexschool-logo.png)&ensp;六角學院協助架構
+## ![Alt text](assets/images/hexschool-icon.png)&ensp;六角學院協助架構
 <!-- ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) -->
 ### 特別感謝 - 作品指導
   - 六角學院 / 穎旻老師
