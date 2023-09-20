@@ -24,10 +24,10 @@ cd localFolder/js-live-beforeClass1
 |&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;|-- &emsp;&ensp;js  
 |&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;|-- stylesheet  
 |&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;|&emsp;&emsp;|- base  
-|&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|- _base.scss
+|&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|- _base.scss  
 |&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;|&emsp;&emsp;|- components  
 |&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;|&emsp;&emsp;|- helpers  
-|&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|- _variables.scss.
+|&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|- _variables.scss.  
 |&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;|&emsp;&emsp;|- pages  
 |&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|- _index.scss  
 |&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;|-- all.css  
