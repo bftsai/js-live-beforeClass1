@@ -1,7 +1,7 @@
 # Js live class before class 1 ![vito](assets/images/vito-icon.png)  
 
 * [GitHub](https://github.com/bftsai/js-live-beforeClass1)  
-* [gh-pages]()  
+* [master-pages](https://bftsai.github.io/js-live-beforeClass1/pages/index.html)  
 
 ## 🕺&ensp;作者
   - [BF Tsai](https://github.com/bftsai)  
