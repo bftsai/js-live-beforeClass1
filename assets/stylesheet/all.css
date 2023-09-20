@@ -1,0 +1,181 @@
+@import "../node_modules/normalize.css";
+.container {
+  max-width: 1296px;
+  padding: 0 12px;
+  margin: 0 auto;
+}
+
+.fs-128 {
+  font-size: 128px;
+}
+
+.fs-40 {
+  font-size: 40px;
+}
+
+.fs-32 {
+  font-size: 32px;
+}
+
+.fs-24 {
+  font-size: 24px;
+}
+
+.fs-20 {
+  font-size: 20px;
+}
+
+.fst-italic {
+  font-style: italic;
+}
+
+.text-red {
+  color: #AE0000;
+}
+
+.text-gray {
+  color: #949494;
+}
+
+.bg-gray {
+  background-color: #EFEFEF;
+}
+
+.bg-black {
+  background-color: #000;
+}
+
+.font-castoro {
+  font-family: "Castoro", serif;
+}
+
+.lh-sm {
+  line-height: 1;
+}
+
+.lh-base {
+  line-height: 1.5;
+}
+
+.letterspc-12 {
+  letter-spacing: 1.2rem;
+}
+
+.py-160 {
+  padding-top: 160px;
+  padding-bottom: 160px;
+}
+
+.py-64 {
+  padding-top: 64px;
+  padding-bottom: 64px;
+}
+
+.py-48 {
+  padding-top: 48px;
+  padding-bottom: 48px;
+}
+
+.pt-160 {
+  padding-top: 160px;
+}
+
+.pt-80 {
+  padding-top: 80px;
+}
+
+.pb-160 {
+  padding-bottom: 160px;
+}
+
+.mt-0 {
+  margin-top: 0;
+}
+
+.mb-40 {
+  margin-bottom: 40px;
+}
+
+.mb-16 {
+  margin-bottom: 16px;
+}
+
+.mb-12 {
+  margin-bottom: 12px;
+}
+
+.mb-8 {
+  margin-bottom: 8px;
+}
+
+.mb-0 {
+  margin-bottom: 0;
+}
+
+.mx-40 {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.my-0 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.fw-normal {
+  font-weight: 400;
+}
+
+.text-start {
+  text-align: left;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-end {
+  text-align: right;
+}
+
+.d-block {
+  display: block;
+}
+
+.d-inline {
+  display: inline;
+}
+
+.d-flex {
+  display: flex;
+}
+
+*, *::before, *::after {
+  font-family: "Castoro", serif;
+  line-height: 1.5;
+}
+
+body {
+  margin: 0;
+}
+
+h1, h2, h3 {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+a {
+  display: block;
+  text-decoration: none;
+  color: #000;
+}
+a:hover {
+  color: #AE0000;
+}
+
+img {
+  vertical-align: middle;
+}/*# sourceMappingURL=all.css.map */
